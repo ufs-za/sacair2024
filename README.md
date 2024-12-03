@@ -1,6 +1,5 @@
-# sacair2024
-South African Conference for Artificial Intelligence Research 2024 - Unconference
-
+# SACAIR 2024 Unconference Tutorials
+<a href="https://2024.sacair.org.za/">South African Conference for Artificial Intelligence Research 2024</a>
 
 ## Tutorials day 02
 
